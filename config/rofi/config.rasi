@@ -1,0 +1,10 @@
+configuration {
+    show-icons: true;
+    icon-theme: "Yaru";
+    font: "Noto Sans 10";
+    lines: 10;
+    width: 40;
+    location: 0;
+    ewmh: true;
+}
+@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
