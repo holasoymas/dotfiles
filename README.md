@@ -156,6 +156,8 @@ Place your wallpapers in the `assets/` directory. The configuration currently us
 feh --bg-scale assets/wallpaper.jpg
 ```
 
+![Wallpaper](assets/kita.png)
+
 ## ⌨️ Keyboard Shortcuts
 
 ### Window Management
